@@ -1,3 +1,7 @@
+//str[i] - '0' converts the character at position i to a numeric digit.
+//Input: S = "AC2BEW3"
+//Output: "ABCEW5"
+
 #include<bits/stdc++.h>
 using namespace std;
 class Solution{
