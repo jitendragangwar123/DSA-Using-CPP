@@ -1,3 +1,3 @@
-# DSA-using-Cpp
-# Day-1
-{TC}
+# Data-Structure And Algoritms by using C++.
+## Array
+
